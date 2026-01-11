@@ -8,5 +8,6 @@ Building clean, maintainable software with a focus on architecture and long-term
 👉 https://ogidok.github.io/portafolio/
 
 ---
-https://github-readme-stats.vercel.app/api?username=ogidok&show_icons=true
+![GitHub Streak](https://streak-stats.demolab.com?user=ogidok&theme=tokyonight)
+
 
