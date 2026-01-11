@@ -9,4 +9,5 @@ Building clean, maintainable software with a focus on architecture and long-term
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogidok&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogidok&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
