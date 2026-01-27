@@ -6,7 +6,7 @@ Building clean, maintainable software with a focus on architecture and long-term
 
  **Portfolio:**  
  https://ogidok.github.io/portafolio/
-### 🛠️ Most Used Languages
+###  Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogidok&layout=compact&theme=tokyonight)
 
