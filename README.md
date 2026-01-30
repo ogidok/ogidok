@@ -6,9 +6,9 @@ Building clean, maintainable software with a focus on architecture and long-term
 
  **Portfolio:**  
  https://ogidok.github.io/portafolio/
-
+ 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,nodejs,html,css,mysql,mongodb,django,flask,git,linux,docker&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,nodejs,html,css,mysql,mongodb,django,flask,git,linux,docker,firebase,openai&perline=13)](#)
 
 
 ---
