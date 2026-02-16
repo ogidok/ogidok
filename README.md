@@ -11,7 +11,3 @@ Building clean, maintainable software with a focus on architecture and long-term
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,nodejs,html,css,mysql,mongodb,django,flask,git,linux,docker,firebase,openai&perline=13)](#)
 
 
----
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ogidok&theme=tokyo-night)
-
-
