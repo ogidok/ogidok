@@ -5,7 +5,7 @@
 Building clean, maintainable software with a focus on architecture and long-term quality.
 
  **Portfolio:**  
- ogidokdev.com
+ [ogidokdev.com](https://ogidokdev.com/)
  
  
 ### Stack
