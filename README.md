@@ -1,6 +1,6 @@
 #  Hi there, I'm Ogidok
 
- **Software Engineer**
+ **Software Engineer & Pentester**
 
 Building clean, maintainable software with a focus on architecture and long-term quality.
 
