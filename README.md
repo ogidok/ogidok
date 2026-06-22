@@ -11,8 +11,3 @@ Building clean, maintainable software with a focus on architecture and long-term
 ### Stack & Tools & OS
 [![My Skills](https://skillicons.dev/icons?i=python,kotlin,androidstudio,js,react,nodejs,postman,php,html,css,mysql,sqlite,mongodb,django,flask,git,bash,linux,arch,redhat,ubuntu,docker,firebase,latex,lua,openai&perline=13)](#)
 
-
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
----
