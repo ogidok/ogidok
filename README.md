@@ -9,5 +9,5 @@ Building clean, maintainable software with a focus on architecture and long-term
  
  
 ### Stack & Tools & OS
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,androidstudio,js,vite,react,nodejs,postman,php,html,css,mysql,sqlite,mongodb,django,flask,git,bash,linux,arch,redhat,ubuntu,docker,firebase,latex,lua,openai&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,kotlin,androidstudio,js,vite,react,nodejs,npm,postman,php,html,css,mysql,sqlite,mongodb,django,flask,git,bash,linux,arch,redhat,ubuntu,docker,firebase,latex,lua,openai&perline=13)](#)
 
