@@ -23,7 +23,7 @@ https://ogidokdev.com
 
 ## DevOps & Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vercel,latex,openai&perline=8)](#)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vercel,latex&perline=8)](#)
 
 ## Operating Systems
 
