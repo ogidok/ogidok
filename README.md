@@ -1,18 +1,12 @@
-#  Hi there, I'm Ogidok
+# Hi there, I'm Ogidok
 
- **Software Engineer & Pentester**
+## Software Engineer & Pentester
 
-Building clean, maintainable software with a focus on architecture and long-term quality.
+Building clean, maintainable software with a focus on backend development, modern web applications, architecture and offensive security.
 
- **Portfolio:**  
- [https://ogidokdev.com](https://ogidokdev.com/)
- 
- 
-### Stack & Tools & OS
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,androidstudio,js,vite,react,nodejs,npm,postman,php,html,css,supabase,vercel,mysql,sqlite,mongodb,django,flask,git,bash,linux,arch,redhat,ubuntu,docker,firebase,latex,lua,openai&perline=13)](#)
+**Portfolio:**  
+https://ogidokdev.com
 
-<<<<<<< HEAD
-=======
 ---
 
 ## Languages
@@ -25,13 +19,16 @@ Building clean, maintainable software with a focus on architecture and long-term
 
 ## Databases
 
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=6)](#)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=6)](#)
 
 ## DevOps & Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vercel,latex&perline=8)](#)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vercel,latex,openai&perline=8)](#)
 
 ## Operating Systems
 
 [![OS](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat&perline=6)](#)
->>>>>>> 95b58f5 (Update README.md)
+
+## Security
+
+[![Security](https://skillicons.dev/icons?i=kali,bash,python&perline=6)](#)
