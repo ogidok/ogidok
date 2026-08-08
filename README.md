@@ -24,7 +24,7 @@ Building clean, maintainable software with a focus on backend architecture, mode
 
 ### Operating Systems
 
-[![Operating Systems](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,arch,redhat&perline=8)](https://skillicons.dev)
+[![Operating Systems](https://skillicons.dev/icons?i=linux,debian,ubuntu,arch,redhat&perline=8)](https://skillicons.dev)
 
 ---
 
