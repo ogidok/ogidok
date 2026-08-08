@@ -1,6 +1,6 @@
 ## Software Engineer & Junior Pentester
 
-Building clean, maintainable software with a focus on backend architecture, modern web applications, architecture and offensive security.
+Building clean, maintainable software with a focus on backend development, modern web applications, architecture and offensive security.
 
 **Portfolio:** [ogidokdev.com](https://ogidokdev.com)
 
