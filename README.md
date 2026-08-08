@@ -1,34 +1,31 @@
-# Hi there, I'm Ogidok
+## Software Engineer & Junior Pentester
 
-## Software Engineer & Pentester
+Building clean, maintainable software with a focus on backend architecture, modern web applications, architecture and offensive security.
 
-Building clean, maintainable software with a focus on backend development, modern web applications, architecture and offensive security.
-
-**Portfolio:**  
-https://ogidokdev.com
+**Portfolio:** [ogidokdev.com](https://ogidokdev.com)
 
 ---
 
-## Languages
+### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,kotlin,php,bash,html,css&perline=8)](#)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,php,kotlin,bash&perline=8)](https://skillicons.dev)
 
-## Frameworks & Technologies
+### Frameworks & Technologies
 
-[![Frameworks](https://skillicons.dev/icons?i=django,flask,react,vite,nodejs,npm,supabase,firebase&perline=8)](#)
+[![Frameworks](https://skillicons.dev/icons?i=react,vite,nodejs,npm,django,flask,supabase,firebase&perline=8)](https://skillicons.dev)
 
-## Databases
+### Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=6)](#)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8)](https://skillicons.dev)
 
-## DevOps & Tools
+### DevOps & Tools
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,vercel,latex&perline=8)](#)
+[![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,postman,latex&perline=8)](https://skillicons.dev)
 
-## Operating Systems
+### Operating Systems
 
-[![OS](https://skillicons.dev/icons?i=linux,arch,ubuntu,redhat&perline=6)](#)
+[![Operating Systems](https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,arch,redhat&perline=8)](https://skillicons.dev)
 
-## Security
+---
 
-[![Security](https://skillicons.dev/icons?i=kali,bash,python&perline=6)](#)
+*Note: Additional tools, technologies, and security utilities are not fully represented in the icon sets above.*
